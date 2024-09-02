@@ -1,6 +1,5 @@
 ## Hi there 👋 I'am Devendra Patil
 
-### Hello, I'm Devendra Patil!
 I'm currently working at Deutsche Bank as Fullstack Engineer
 
 I've had the chance to immerse myself in many different projects, helping to make this world a little better through teamworker.✨
