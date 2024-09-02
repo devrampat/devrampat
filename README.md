@@ -10,7 +10,7 @@ Currently honing my DevOps skills, investigating various cloud technologies, and
 
 ### Find me elsewhere 🌎
 
-[![Linkedin](https://img.shields.io/badge/-danielcaballero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/devendra-patil-b0929061/)](https://www.linkedin.com/in/devendra-patil-b0929061/) 
+[![Linkedin](https://img.shields.io/badge/-devrampat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/devendra-patil-b0929061/)](https://www.linkedin.com/in/devendra-patil-b0929061/) 
 <details>
 
 <summary><b>Languages and Tools🤓</b>: </summary>
